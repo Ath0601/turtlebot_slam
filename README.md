@@ -21,5 +21,5 @@ Nodes included in the launch file:
 
 ### Simulation Demo
 
-[**Video**][https://github.com/Ath0601/turtlebot_slam/blob/main/src/dwa_planner/TurtleBot_Slam.mp4]
+[**Video**](https://github.com/Ath0601/turtlebot_slam/blob/main/src/dwa_planner/TurtleBot_Slam.mp4)
 
